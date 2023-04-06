@@ -1,6 +1,6 @@
 {
   "title": "Tower of God",
-  "description": "Cosa desideri? Fortuna? Gloria? Potere? Vendetta? O qualcosa per superare tutti gli altri? Qualsiasi cosa tu desideri, \"Si trova qui\". Unisciti a Baam nella scalata della torre per raggiungere la sua amica Rachel. Affrontando impossibili missioni e intricati rompicapo, userà ogni mezzo necessario per raggiungere la cima.",
+  "description": "Cosa desideri? Fortuna? Gloria? Potere? Vendetta? O qualcosa per superare tutti gli altri? Qualsiasi cosa tu desideri, \"Si trova qui\". Unisciti a Baam nella scalata della torre per raggiungere la sua amica Rachel. Affrontando impossibili missioni e intricati rompicapo, userà ogni mezzo necessario per raggiungere la cima.\n",
   "artist": "SIU",
   "author": "SIU ",
   "cover": "https://i.imgur.com/xKX4xVu.jpg",
@@ -14,11 +14,11 @@
       }
     },
     "135": {
-      "title": "135",
+      "title": "test",
       "volume": "2",
       "last_updated": "1680789728",
       "groups": {
-        "Quegna Traduction Team": "https://imgur.com/a/Q3H0N0j"
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Q3H0N0j"
       }
     }
   }
