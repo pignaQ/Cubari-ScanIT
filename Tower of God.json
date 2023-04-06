@@ -1,0 +1,17 @@
+{
+  "title": "Tower of God",
+  "description": "",
+  "artist": "SIU",
+  "author": "SIU ",
+  "cover": "https://i.imgur.com/xKX4xVu.jpg",
+  "chapters": {
+    "134": {
+      "title": "Dichiarazione di guerra (1)",
+      "volume": "3",
+      "last_updated": "1680776400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Q3H0N0j"
+      }
+    }
+  }
+}
