@@ -1,10 +1,42 @@
 {
   "title": "Tower of God",
-  "description": "Cosa desideri? Fortuna? Gloria? Potere? Vendetta? O qualcosa per superare tutti gli altri? Qualsiasi cosa tu desideri, \"Si trova qui\". Unisciti a Baam nella scalata della torre per raggiungere la sua amica Rachel. Affrontando impossibili missioni e intricati rompicapo, userà ogni mezzo necessario per raggiungere la cima.\n",
+  "description": "Rachel calpestami",
   "artist": "SIU",
   "author": "SIU ",
   "cover": "https://i.imgur.com/xKX4xVu.jpg",
   "chapters": {
+    "130": {
+      "title": "??F - Lilial Zahard (1)",
+      "volume": "3",
+      "last_updated": "1658667600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ii2YMtR"
+      }
+    },
+    "131": {
+      "title": "??F - Lilial Zahard (2)",
+      "volume": "3",
+      "last_updated": "1690808400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7dD0wYY"
+      }
+    },
+    "132": {
+      "title": "??F - Lilial Zahard (3)",
+      "volume": "3",
+      "last_updated": "1659877200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/klo9vXS"
+      }
+    },
+    "133": {
+      "title": "??F - Lilial Zahard (4)",
+      "volume": "3",
+      "last_updated": "1660482000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/j9Ua52x"
+      }
+    },
     "134": {
       "title": "Dichiarazione di guerra (1)",
       "volume": "3",
