@@ -5,6 +5,342 @@
   "author": "SIU",
   "cover": "https://i.imgur.com/xKX4xVu.jpg",
   "chapters": {
+    "1": {
+      "title": "52F - Deng Deng (0)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2": {
+      "title": "52F - Deng Deng (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "3": {
+      "title": "52F - Deng Deng (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "4": {
+      "title": "52F - Deng Deng (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "5": {
+      "title": "52F - Deng Deng (4)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "6": {
+      "title": "52F - Deng Deng (5)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "7": {
+      "title": "52F - Deng Deng (6)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "8": {
+      "title": "52F - Baylord Yama (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "9": {
+      "title": "52F - Baylord Yama (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "10": {
+      "title": "52F - Il Furto della Zanna (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "11": {
+      "title": "52F - Il Furto della Zanna (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "12": {
+      "title": "52F - Il Furto della Zanna (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "13": {
+      "title": "52F - Il Furto della Zanna (4)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "14": {
+      "title": "52F - Il Furto della Zanna (5)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "15": {
+      "title": "52F - Il Furto della Zanna (6)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "16": {
+      "title": "52F - Il Furto della Zanna (7)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "17": {
+      "title": "52F - Cuore (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "18": {
+      "title": "52F - Cuore (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "19": {
+      "title": "52F - Cuore (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "20": {
+      "title": "52F - Doom (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "21": {
+      "title": "52F - Doom (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "22": {
+      "title": "52F - Il Furto della Zanna 2 (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "23": {
+      "title": "52F - Il Furto della Zanna 2 (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "24": {
+      "title": "52F - Il Re dei Cani (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "25": {
+      "title": "52F - Il Re dei Cani (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "26": {
+      "title": "52F - Il Re dei Cani (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "27": {
+      "title": "52F - Khel Hellam (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "28": {
+      "title": "52F - Khel Hellam (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "29": {
+      "title": "52F - Khel Hellam (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "30": {
+      "title": "52F - Trasformazione (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "31": {
+      "title": "52F - Trasformazione (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "32": {
+      "title": "52F - Trasformazione (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "33": {
+      "title": "52F - I Muri di Pace e Coesistenza (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "34": {
+      "title": "52F - I Muri di Pace e Coesistenza (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "35": {
+      "title": "52F - I Muri di Pace e Coesistenza (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "36": {
+      "title": "52F - I Muri di Pace e Coesistenza (4)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "37": {
+      "title": "52F - I Muri di Pace e Coesistenza (5)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "38": {
+      "title": "52F - Il Muro del Nontiscordardimé (1)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "39": {
+      "title": "52F - Il Muro del Nontiscordardimé (2)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "40": {
+      "title": "52F - Il Muro del Nontiscordardimé (3)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "41": {
+      "title": "52F - Il Muro del Nontiscordardimé (4)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "42": {
+      "title": "52F - Il Muro del Nontiscordardimé (5)",
+      "volume": "3",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
     "43": {
       "title": "52F - Kallavan vs White (1)",
       "volume": "3",
