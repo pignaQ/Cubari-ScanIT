@@ -5,6 +5,30 @@
   "author": "SIU",
   "cover": "https://i.imgur.com/xKX4xVu.jpg",
   "chapters": {
+    "0": {
+      "title": "prologo s1",
+      "volume": "1",
+      "last_updated": "1552226400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter"
+      }
+    },
+    "1": {
+      "title": "primo cap s1",
+      "volume": "1",
+      "last_updated": "1552226400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter"
+      }
+    },
+    "337": {
+      "title": "prova fine s2",
+      "volume": "2",
+      "last_updated": "1552226400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter"
+      }
+    },
     "1": {
       "title": "52F - Deng Deng (0)",
       "volume": "3",
