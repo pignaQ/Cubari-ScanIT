@@ -5,6 +5,22 @@
   "author": "SIU",
   "cover": "https://i.imgur.com/xKX4xVu.jpg",
   "chapters": {
+    "1.000": {
+      "title": "Prologo",
+      "volume": "1",
+      "last_updated": "1277902800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Ztci7iD"
+      }
+    },
+    "1.001": {
+      "title": "1F - Piano di Headon (1)",
+      "volume": "1",
+      "last_updated": "1278334800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/B8y6hFB"
+      }
+    },
     "3.001": {
       "title": "52F - Deng Deng (0)",
       "volume": "3",
@@ -1075,22 +1091,6 @@
       "last_updated": "1680776400",
       "groups": {
         "Quegna Traduction Team": "/proxy/api/imgur/chapter/Q3H0N0j"
-      }
-    },
-    "1.000": {
-      "title": "Prologo",
-      "volume": "1",
-      "last_updated": "1277902800",
-      "groups": {
-        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Ztci7iD"
-      }
-    },
-    "1.001": {
-      "title": "1F - Piano di Headon (1)",
-      "volume": "1",
-      "last_updated": "1278334800",
-      "groups": {
-        "Quegna Traduction Team": "/proxy/api/imgur/chapter/B8y6hFB"
       }
     }
   }
