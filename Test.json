@@ -1,6 +1,8 @@
+[{"c": "fa-youtube", "l": "Youtube"}]
+
 {
   "title": "Test",
-  "description": "![](https://i.imgur.com/k61mJVs.png) <https://t.me/quegnamitutto>",
+  "description": "<i class="fa fa-youtube"></i>[](https://i.imgur.com/k61mJVs.png) <https://t.me/quegnamitutto>",
   "artist": "No One",
   "author": "No One",
   "cover": "https://i.imgur.com/xKX4xVu.jpg",
