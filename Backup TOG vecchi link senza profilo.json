@@ -1,8 +1,4425 @@
 {
-  "title": "Backup TOG vecchi link senza profilo",
-  "description": "",
+  "title": "Backup TOG vecchi link",
+  "description": "[Link giusto](https://cubari.moe/read/gist/cmF3L3BpZ25hUS9DdWJhcmktU2NhbklUL21hc3Rlci9Ub3dlciUyMG9mJTIwR29kLmpzb24/)",
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1.000": {
+      "title": "[Anteprima]",
+      "volume": "1",
+      "last_updated": "1277902800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Ztci7iD"
+      }
+    },
+    "1.001": {
+      "title": "1F - Piano di Headon (1)",
+      "volume": "1",
+      "last_updated": "1278334800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/B8y6hFB"
+      }
+    },
+    "1.002": {
+      "title": "1F - Piano di Headon (2)",
+      "volume": "1",
+      "last_updated": "1278939600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/VduvWNl"
+      }
+    },
+    "1.003": {
+      "title": "1F - Piano di Headon (3)",
+      "volume": "1",
+      "last_updated": "1279544400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/XnWOchg"
+      }
+    },
+    "1.004": {
+      "title": "1F - Piano di Headon (4)",
+      "volume": "1",
+      "last_updated": "1280149200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/KxC1U8Y"
+      }
+    },
+    "1.005": {
+      "title": "2F - Inferno di Evankhell (1)",
+      "volume": "1",
+      "last_updated": "1280754000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4ptKtHz"
+      }
+    },
+    "1.006": {
+      "title": "2F - Inferno di Evankhell (2)",
+      "volume": "1",
+      "last_updated": "1281358800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/t87Xbbo"
+      }
+    },
+    "1.007": {
+      "title": "2F - Inferno di Evankhell (3)",
+      "volume": "1",
+      "last_updated": "1281963600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Q7CtTBg"
+      }
+    },
+    "1.008": {
+      "title": "2F - Inferno di Evankhell (4)",
+      "volume": "1",
+      "last_updated": "1282568400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/mVwZtbA"
+      }
+    },
+    "1.009": {
+      "title": "2F - Il test di Lero Ro (1)",
+      "volume": "1",
+      "last_updated": "1283173200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/hEkpsM3"
+      }
+    },
+    "1.010": {
+      "title": "2F - Il test di Lero Ro (2)",
+      "volume": "1",
+      "last_updated": "1283778000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/dChJkWY"
+      }
+    },
+    "1.011": {
+      "title": "2F - La prova di Yu Hansung (1)",
+      "volume": "1",
+      "last_updated": "1284382800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7lXhZ4S"
+      }
+    },
+    "1.012": {
+      "title": "2F - La prova di Yu Hansung (2)",
+      "volume": "1",
+      "last_updated": "1284987600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Cuwezu6"
+      }
+    },
+    "1.013": {
+      "title": "2F - La prova di Yu Hansung (3)",
+      "volume": "1",
+      "last_updated": "1285592400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/VTiX16Y"
+      }
+    },
+    "1.014": {
+      "title": "2F - Il gioco della corona (1)",
+      "volume": "1",
+      "last_updated": "1286197200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/t1K7JVx"
+      }
+    },
+    "1.015": {
+      "title": "2F - Il gioco della corona (2)",
+      "volume": "1",
+      "last_updated": "1286802000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/0yv95JF"
+      }
+    },
+    "1.016": {
+      "title": "2F - Il gioco della corona (3)",
+      "volume": "1",
+      "last_updated": "1287406800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/oLsJNae"
+      }
+    },
+    "1.017": {
+      "title": "2F - Il gioco della corona (4)",
+      "volume": "1",
+      "last_updated": "1288011600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/6Ydap9P"
+      }
+    },
+    "1.018": {
+      "title": "2F - Il gioco della corona (5)",
+      "volume": "1",
+      "last_updated": "1288620000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/co2nywQ"
+      }
+    },
+    "1.019": {
+      "title": "2F - Il gioco della corona (6)",
+      "volume": "1",
+      "last_updated": "1289224800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/gMeG2ke"
+      }
+    },
+    "1.020": {
+      "title": "2F - Il gioco della corona (7)",
+      "volume": "1",
+      "last_updated": "1289829600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/dyA0sYD"
+      }
+    },
+    "1.021": {
+      "title": "2F - Il gioco della corona (8)",
+      "volume": "1",
+      "last_updated": "1290434400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/DmHJQDD"
+      }
+    },
+    "1.022": {
+      "title": "2F - Il gioco della corona (9)",
+      "volume": "1",
+      "last_updated": "1291039200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/5F1VNME"
+      }
+    },
+    "1.023": {
+      "title": "2F - Il gioco della corona (10)",
+      "volume": "1",
+      "last_updated": "1291644000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/lbkDhBz"
+      }
+    },
+    "1.024": {
+      "title": "2F - Il gioco della corona (11)",
+      "volume": "1",
+      "last_updated": "1292248800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/9aKJxoF"
+      }
+    },
+    "1.025": {
+      "title": "2F - Il gioco della corona (12)",
+      "volume": "1",
+      "last_updated": "1292853600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/l87b7K2"
+      }
+    },
+    "1.026": {
+      "title": "2F - Riposo (1)",
+      "volume": "1",
+      "last_updated": "1293458400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/3JZlrNn"
+      }
+    },
+    "1.027": {
+      "title": "2F - Riposo (2)",
+      "volume": "1",
+      "last_updated": "1294063200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/k3VUYuA"
+      }
+    },
+    "1.028": {
+      "title": "2F - Test di posizione (1)",
+      "volume": "1",
+      "last_updated": "1294668000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/hj979pu"
+      }
+    },
+    "1.029": {
+      "title": "2F - Test di posizione (2)",
+      "volume": "1",
+      "last_updated": "1295272800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/aOg35zq"
+      }
+    },
+    "1.030": {
+      "title": "2F - Test di posizione (3)",
+      "volume": "1",
+      "last_updated": "1295877600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/OWKMKdP"
+      }
+    },
+    "1.031": {
+      "title": "2F - Principesse di Zahard (1)",
+      "volume": "1",
+      "last_updated": "1296482400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/e3Gw6nY"
+      }
+    },
+    "1.032": {
+      "title": "2F - Principesse di Zahard (2)",
+      "volume": "1",
+      "last_updated": "1297087200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ndPwn6t"
+      }
+    },
+    "1.033": {
+      "title": "2F - Principesse di Zahard (3)",
+      "volume": "1",
+      "last_updated": "1297692000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ye7RIo4"
+      }
+    },
+    "1.034": {
+      "title": "2F - Principesse di Zahard (4)",
+      "volume": "1",
+      "last_updated": "1298296800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/hOkjwhV"
+      }
+    },
+    "1.035": {
+      "title": "2F - Nascondino (1)",
+      "volume": "1",
+      "last_updated": "1298901600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/TTu0ZqD"
+      }
+    },
+    "1.036": {
+      "title": "2F - Nascondino (2)",
+      "volume": "1",
+      "last_updated": "1299506400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/NHEndaj"
+      }
+    },
+    "1.037": {
+      "title": "2F - Nascondino (3)",
+      "volume": "1",
+      "last_updated": "1300111200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/tIPUALr"
+      }
+    },
+    "1.038": {
+      "title": "2F - Nascondino (4)",
+      "volume": "1",
+      "last_updated": "1300716000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/OslPzk9"
+      }
+    },
+    "1.039": {
+      "title": "2F - Nascondino (5)",
+      "volume": "1",
+      "last_updated": "1301317200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Jtpbw2X"
+      }
+    },
+    "1.040": {
+      "title": "2F - Nascondino (6)",
+      "volume": "1",
+      "last_updated": "1301922000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/QKXvwUt"
+      }
+    },
+    "1.041": {
+      "title": "2F - Nascondino (7)",
+      "volume": "1",
+      "last_updated": "1302526800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/HUbSIRl"
+      }
+    },
+    "1.042": {
+      "title": "2F - Nascondino (8)",
+      "volume": "1",
+      "last_updated": "1303131600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/V2ot168"
+      }
+    },
+    "1.043": {
+      "title": "2F - Nascondino (9)",
+      "volume": "1",
+      "last_updated": "1303736400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/UtEUR8M"
+      }
+    },
+    "1.044": {
+      "title": "2F - Nascondino (10)",
+      "volume": "1",
+      "last_updated": "1304341200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/CGigD7K"
+      }
+    },
+    "1.045": {
+      "title": "2F - Nascondino (11)",
+      "volume": "1",
+      "last_updated": "1304946000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ENiTTme"
+      }
+    },
+    "1.046": {
+      "title": "2F - Nascondino (12)",
+      "volume": "1",
+      "last_updated": "1305550800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/qOusNY1"
+      }
+    },
+    "1.047": {
+      "title": "2F - Nascondino (13)",
+      "volume": "1",
+      "last_updated": "1306155600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/wM87urx"
+      }
+    },
+    "1.048": {
+      "title": "2F - Nascondino (14)",
+      "volume": "1",
+      "last_updated": "1306760400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Xu3yFm6"
+      }
+    },
+    "1.049": {
+      "title": "2F - Nascondino (15)",
+      "volume": "1",
+      "last_updated": "1307365200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/pOfhBbY"
+      }
+    },
+    "1.050": {
+      "title": "2F - Nascondino (16)",
+      "volume": "1",
+      "last_updated": "1307970000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ZA7ULEi"
+      }
+    },
+    "1.051": {
+      "title": "2F - Nascondino (17)",
+      "volume": "1",
+      "last_updated": "1308574800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/KCcyu8m"
+      }
+    },
+    "1.052": {
+      "title": "2F - Pesce sommerso (1)",
+      "volume": "1",
+      "last_updated": "1309179600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/qGRN3p6"
+      }
+    },
+    "1.053": {
+      "title": "2F - Pesce sommerso (2)",
+      "volume": "1",
+      "last_updated": "1309784400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Ozj4zOM"
+      }
+    },
+    "1.054": {
+      "title": "2F - Pesce sommerso (3)",
+      "volume": "1",
+      "last_updated": "1310389200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/rKLFHfL"
+      }
+    },
+    "1.055": {
+      "title": "2F - Pesce sommerso (4)",
+      "volume": "1",
+      "last_updated": "1310994000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/uhpdtP9"
+      }
+    },
+    "1.056": {
+      "title": "2F - Pesce sommerso (5)",
+      "volume": "1",
+      "last_updated": "1311598800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/hzTD1rb"
+      }
+    },
+    "1.057": {
+      "title": "2F - Esaminazione finale (1)",
+      "volume": "1",
+      "last_updated": "1312203600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/kDJwwRM"
+      }
+    },
+    "1.058": {
+      "title": "2F - Esaminazione finale (2)",
+      "volume": "1",
+      "last_updated": "1312808400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/aTZuyz0"
+      }
+    },
+    "1.059": {
+      "title": "2F - Esaminazione finale (3)",
+      "volume": "1",
+      "last_updated": "1313413200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/XPgrNXF"
+      }
+    },
+    "1.060": {
+      "title": "2F - Esaminazione finale (4)",
+      "volume": "1",
+      "last_updated": "1314018000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/tOFe44M"
+      }
+    },
+    "1.061": {
+      "title": "2F - Esaminazione finale (5)",
+      "volume": "1",
+      "last_updated": "1314622800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Zf6kMbj"
+      }
+    },
+    "1.062": {
+      "title": "2F - Esaminazione finale (6)",
+      "volume": "1",
+      "last_updated": "1315227600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/PEdEpiy"
+      }
+    },
+    "1.063": {
+      "title": "2F - Esaminazione finale (7)",
+      "volume": "1",
+      "last_updated": "1315832400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7iOzYWd"
+      }
+    },
+    "1.064": {
+      "title": "2F - Esaminazione finale (8)",
+      "volume": "1",
+      "last_updated": "1316437200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/P5bKPlQ"
+      }
+    },
+    "1.065": {
+      "title": "2F - Esaminazione finale (9)",
+      "volume": "1",
+      "last_updated": "1317042000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Z31KhwJ"
+      }
+    },
+    "1.066": {
+      "title": "2F - Esaminazione finale (10)",
+      "volume": "1",
+      "last_updated": "1317646800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ufTL0vg"
+      }
+    },
+    "1.067": {
+      "title": "2F - Esaminazione finale (11)",
+      "volume": "1",
+      "last_updated": "1318251600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4fRvisu"
+      }
+    },
+    "1.068": {
+      "title": "2F - Esaminazione finale (12)",
+      "volume": "1",
+      "last_updated": "1318856400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/xlTBzwC"
+      }
+    },
+    "1.069": {
+      "title": "2F - Esaminazione finale (13)",
+      "volume": "1",
+      "last_updated": "1319461200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/MjUL5nI"
+      }
+    },
+    "1.070": {
+      "title": "2F - Esaminazione finale (14)",
+      "volume": "1",
+      "last_updated": "1320069600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/eLpLU1q"
+      }
+    },
+    "1.071": {
+      "title": "2F - Esaminazione finale (15)",
+      "volume": "1",
+      "last_updated": "1320674400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/HA2Wj1w"
+      }
+    },
+    "1.072": {
+      "title": "2F - Esaminazione finale (16)",
+      "volume": "1",
+      "last_updated": "1321279200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/47Shsyb"
+      }
+    },
+    "1.073": {
+      "title": "2F - Esaminazione finale (17)",
+      "volume": "1",
+      "last_updated": "1321884000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/jcK1DTm"
+      }
+    },
+    "1.074": {
+      "title": "2F - Esaminazione finale (18)",
+      "volume": "1",
+      "last_updated": "1322488800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/dtK8sxB"
+      }
+    },
+    "1.075": {
+      "title": "2F - Epilogo - Rachel (1)",
+      "volume": "1",
+      "last_updated": "1323698400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/T7Y35HD"
+      }
+    },
+    "1.076": {
+      "title": "2F - Epilogo - Rachel (2)",
+      "volume": "1",
+      "last_updated": "1324303200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/q4AZc4z"
+      }
+    },
+    "1.077": {
+      "title": "2F - Epilogo - Rachel (3)",
+      "volume": "1",
+      "last_updated": "1324908000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4HqhEkI"
+      }
+    },
+    "1.078": {
+      "title": "2F - Epilogo - Rachel (4) [Fine 1ª Stagione]",
+      "volume": "1",
+      "last_updated": "1325512800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/TA36mdB"
+      }
+    },
+    "2.000": {
+      "title": "[Anteprima & Prologo 2ª Stagione]",
+      "volume": "2",
+      "last_updated": "1327932000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/L7kHoGZ"
+      }
+    },
+    "2.001": {
+      "title": "20F - Ultima possibilità (1)",
+      "volume": "2",
+      "last_updated": "1328536800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/g9u6vTi"
+      }
+    },
+    "2.002": {
+      "title": "20F - Ultima possibilità (2)",
+      "volume": "2",
+      "last_updated": "1329141600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/tAeyIYU"
+      }
+    },
+    "2.003": {
+      "title": "20F - Ultima possibilità (3)",
+      "volume": "2",
+      "last_updated": "1329746400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/JXRcWJd"
+      }
+    },
+    "2.004": {
+      "title": "20F - Ultima possibilità (4)",
+      "volume": "2",
+      "last_updated": "1330351200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/MU3s1x7"
+      }
+    },
+    "2.005": {
+      "title": "20F - Ultima possibilità (5)",
+      "volume": "2",
+      "last_updated": "1330956000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/6BnTwaS"
+      }
+    },
+    "2.006": {
+      "title": "20F - Il regolare più forte (1)",
+      "volume": "2",
+      "last_updated": "1331560800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/nbyHLoU"
+      }
+    },
+    "2.007": {
+      "title": "20F - Il regolare più forte (2)",
+      "volume": "2",
+      "last_updated": "1332165600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ERTUJ33"
+      }
+    },
+    "2.008": {
+      "title": "20F - Il regolare più forte (3)",
+      "volume": "2",
+      "last_updated": "1332766800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/gKcAB7d"
+      }
+    },
+    "2.009": {
+      "title": "20F - Bagni (1)",
+      "volume": "2",
+      "last_updated": "1333371600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/hELL1eE"
+      }
+    },
+    "2.010": {
+      "title": "20F - Bagni (2)",
+      "volume": "2",
+      "last_updated": "1333976400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/AIJA3Rc"
+      }
+    },
+    "2.011": {
+      "title": "20F - La camera della sfiducia (1)",
+      "volume": "2",
+      "last_updated": "1334581200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/GXcd7BN"
+      }
+    },
+    "2.012": {
+      "title": "20F - La camera della sfiducia (2)",
+      "volume": "2",
+      "last_updated": "1335186000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/vIL5CtU"
+      }
+    },
+    "2.013": {
+      "title": "20F - La camera della sfiducia (3)",
+      "volume": "2",
+      "last_updated": "1335790800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/kBSwmpY"
+      }
+    },
+    "2.014": {
+      "title": "20F - La camera della sfiducia (4)",
+      "volume": "2",
+      "last_updated": "1336395600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/6kK4ek5"
+      }
+    },
+    "2.015": {
+      "title": "20F - La camera della sfiducia (5)",
+      "volume": "2",
+      "last_updated": "1337000400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/6Ev6XTa"
+      }
+    },
+    "2.016": {
+      "title": "20F - La camera della sfiducia (6)",
+      "volume": "2",
+      "last_updated": "1337605200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/v1bQyr8"
+      }
+    },
+    "2.017": {
+      "title": "20F - La camera della sfiducia (7)",
+      "volume": "2",
+      "last_updated": "1338210000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/CrXbr31"
+      }
+    },
+    "2.018": {
+      "title": "20F - La camera della sfiducia (8)",
+      "volume": "2",
+      "last_updated": "1338728400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Rd8RuD5"
+      }
+    },
+    "2.019": {
+      "title": "20F - Prede (1)",
+      "volume": "2",
+      "last_updated": "1339333200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/LjGmXIj"
+      }
+    },
+    "2.020": {
+      "title": "20F - Prede (2)",
+      "volume": "2",
+      "last_updated": "1339938000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/OR1qpOW"
+      }
+    },
+    "2.021": {
+      "title": "20F - Prede (3)",
+      "volume": "2",
+      "last_updated": "1340542800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/lfoGKSK"
+      }
+    },
+    "2.022": {
+      "title": "20F - Epilogo",
+      "volume": "2",
+      "last_updated": "1341147600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/CThFegP"
+      }
+    },
+    "2.023": {
+      "title": "25F - Completamento delle recinzioni (1)",
+      "volume": "2",
+      "last_updated": "1342357200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/SQPKYP8"
+      }
+    },
+    "2.024": {
+      "title": "25F - Completamento delle recinzioni (2)",
+      "volume": "2",
+      "last_updated": "1342962000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/KslmeQv"
+      }
+    },
+    "2.025": {
+      "title": "25F - Completamento delle recinzioni (3)",
+      "volume": "2",
+      "last_updated": "1343566800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/cPRJ5CF"
+      }
+    },
+    "2.026": {
+      "title": "21F - FUG (1)",
+      "volume": "2",
+      "last_updated": "1344171600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/2NHb2O2"
+      }
+    },
+    "2.027": {
+      "title": "21F - FUG (2)",
+      "volume": "2",
+      "last_updated": "1344776400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/lqeUHyx"
+      }
+    },
+    "2.028": {
+      "title": "21F - FUG (3)",
+      "volume": "2",
+      "last_updated": "1345381200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Je6jEBZ"
+      }
+    },
+    "2.029": {
+      "title": "21F - Fiore di Zygaena (1)",
+      "volume": "2",
+      "last_updated": "1345986000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/C0wHXCZ"
+      }
+    },
+    "2.030": {
+      "title": "21F - Fiore di Zygaena (2)",
+      "volume": "2",
+      "last_updated": "1346590800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/XU4xxlo"
+      }
+    },
+    "2.031": {
+      "title": "21F - Fiore di Zygaena (3)",
+      "volume": "2",
+      "last_updated": "1347195600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/FUeN2cG"
+      }
+    },
+    "2.032": {
+      "title": "21F - Fiore di Zygaena (4)",
+      "volume": "2",
+      "last_updated": "1347800400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/DvrmYdE"
+      }
+    },
+    "2.033": {
+      "title": "21F - Fiore di Zygaena (5)",
+      "volume": "2",
+      "last_updated": "1348405200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/NWD8GXR"
+      }
+    },
+    "2.034": {
+      "title": "21F - Epilogo - Percorso (1)",
+      "volume": "2",
+      "last_updated": "1349010000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/j8qUhwG"
+      }
+    },
+    "2.035": {
+      "title": "21F - Epilogo - Percorso (2)",
+      "volume": "2",
+      "last_updated": "1349614800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/r0GY7xm"
+      }
+    },
+    "2.036": {
+      "title": "2F - Extra - Slayer",
+      "volume": "2",
+      "last_updated": "1350219600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/VgdwmU4"
+      }
+    },
+    "2.037": {
+      "title": "77F - Extra - L'arcade sospetto",
+      "volume": "2",
+      "last_updated": "1350824400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/tS3GDqw"
+      }
+    },
+    "2.038": {
+      "title": "Parte 2 - La battaglia di laboratorio - Prologo: Emile",
+      "volume": "2",
+      "last_updated": "1352642400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Dl0q4DD"
+      }
+    },
+    "2.039": {
+      "title": "29F - Connessione (1)",
+      "volume": "2",
+      "last_updated": "1353247200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/g6Pcu5n"
+      }
+    },
+    "2.040": {
+      "title": "29F - Connessione (2)",
+      "volume": "2",
+      "last_updated": "1353852000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/rEdIAQQ"
+      }
+    },
+    "2.041": {
+      "title": "29F - Connessione (3)",
+      "volume": "2",
+      "last_updated": "1354456800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/jTK1VH5"
+      }
+    },
+    "2.042": {
+      "title": "28F - Il diavolo del braccio destro (1)",
+      "volume": "2",
+      "last_updated": "1355061600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/qYhCYVP"
+      }
+    },
+    "2.043": {
+      "title": "28F - Il diavolo del braccio destro (2)",
+      "volume": "2",
+      "last_updated": "1355666400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Xeoz0yz"
+      }
+    },
+    "2.044": {
+      "title": "28F - Il diavolo del braccio destro (3)",
+      "volume": "2",
+      "last_updated": "1356271200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/3HsNsdk"
+      }
+    },
+    "2.045": {
+      "title": "28F - Il diavolo del braccio destro (4)",
+      "volume": "2",
+      "last_updated": "1356876000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/0hpJIT5"
+      }
+    },
+    "2.046": {
+      "title": "28F - Il diavolo del braccio destro (5)",
+      "volume": "2",
+      "last_updated": "1357480800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/unqEyIz"
+      }
+    },
+    "2.047": {
+      "title": "28F - Il diavolo del braccio destro (6)",
+      "volume": "2",
+      "last_updated": "1358085600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/U030q9R"
+      }
+    },
+    "2.048": {
+      "title": "28F - Il diavolo del braccio destro (7)",
+      "volume": "2",
+      "last_updated": "1358690400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/kFbgzsC"
+      }
+    },
+    "2.049": {
+      "title": "28F - Il diavolo del braccio destro (8)",
+      "volume": "2",
+      "last_updated": "1359295200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/pSUorTK"
+      }
+    },
+    "2.050": {
+      "title": "28F - Il diavolo del braccio destro (9)",
+      "volume": "2",
+      "last_updated": "1359900000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/e7GptTp"
+      }
+    },
+    "2.051": {
+      "title": "28F - Il diavolo del braccio destro (10)",
+      "volume": "2",
+      "last_updated": "1360504800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/MASBNFq"
+      }
+    },
+    "2.052": {
+      "title": "29F - Scommessa (1)",
+      "volume": "2",
+      "last_updated": "1361109600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/eKYZSKc"
+      }
+    },
+    "2.053": {
+      "title": "29F - Scommessa (2)",
+      "volume": "2",
+      "last_updated": "1361714400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/qoB1Cil"
+      }
+    },
+    "2.054": {
+      "title": "29F - Scommessa (3)",
+      "volume": "2",
+      "last_updated": "1362319200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/1J9GToM"
+      }
+    },
+    "2.055": {
+      "title": "29F - Scommessa (4)",
+      "volume": "2",
+      "last_updated": "1362924000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/JaxAj1L"
+      }
+    },
+	"2.056": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.057": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.058": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.059": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.060": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.061": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.062": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.063": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.064": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.065": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.066": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.067": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.068": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.069": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.070": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.071": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.072": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.073": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.074": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.075": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.076": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.077": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.078": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.079": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.080": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.081": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.082": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.083": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.084": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.085": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.086": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.087": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.088": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.089": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.090": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.091": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.092": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.093": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.094": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.095": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.096": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.097": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.098": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.099": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.100": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.101": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.102": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.103": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.104": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.105": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.106": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.107": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.108": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.109": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.110": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.111": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.112": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.113": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.114": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.115": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.116": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.117": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.118": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.119": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.120": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.121": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.122": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.123": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.124": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.125": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.126": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.127": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.128": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.129": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.130": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.131": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.132": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.133": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.134": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.135": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.136": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.137": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.138": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.139": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.140": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.141": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.142": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.143": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.144": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.145": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.146": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.147": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.148": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.149": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.150": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.151": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.152": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.153": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.154": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.155": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.156": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.157": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.158": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.159": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.160": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.161": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.162": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.163": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.164": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.165": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.166": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.167": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.168": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.169": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.170": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.171": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.172": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.173": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.174": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.175": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.176": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.177": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.178": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.179": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.180": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.181": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.182": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.183": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.184": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.185": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.186": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.187": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.188": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.189": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.190": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.191": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.192": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.193": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.194": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.195": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.196": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.197": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.198": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.199": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.200": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.201": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.202": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.203": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.204": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.205": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.206": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.207": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.208": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.209": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.210": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.211": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.212": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.213": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.214": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.215": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.216": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.217": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.218": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.219": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.220": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.221": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.222": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.223": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.224": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.225": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.226": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.227": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.228": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.229": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.230": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.231": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.232": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.233": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.234": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.235": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.236": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.237": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.238": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.239": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.240": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.241": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.242": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.243": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.244": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.245": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.246": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.247": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.248": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.249": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.250": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.251": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.252": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.253": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.254": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.255": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.256": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.257": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.258": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.259": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.260": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.261": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.262": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.263": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.264": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.265": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.266": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.267": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.268": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.269": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.270": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.271": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.272": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.273": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.274": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.275": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.276": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.277": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.278": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.279": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.280": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.281": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.282": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.283": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.284": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.285": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.286": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.287": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.288": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.289": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.290": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.291": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.292": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.293": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.294": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.295": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.296": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.297": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.298": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.299": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+	"2.300": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.301": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.302": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.303": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.304": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.305": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.306": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.307": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.308": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.309": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.310": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.311": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.312": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.313": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.314": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.315": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.316": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.317": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.318": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.319": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.320": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.321": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.322": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.323": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.324": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.325": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.326": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.327": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.328": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.329": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.330": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.331": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.332": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.333": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.334": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.335": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.336": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "2.337": {
+      "title": "",
+      "volume": "2",
+      "last_updated": "",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/"
+      }
+    },
+    "3.001": {
+      "title": "52F - Deng Deng (0)",
+      "volume": "3",
+      "last_updated": "1552226400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4g9CsSu"
+      }
+    },
+    "3.002": {
+      "title": "52F - Deng Deng (1)",
+      "volume": "3",
+      "last_updated": "1552831200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/8vTxyPB"
+      }
+    },
+    "3.003": {
+      "title": "52F - Deng Deng (2)",
+      "volume": "3",
+      "last_updated": "1553436000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/JChG200"
+      }
+    },
+    "3.004": {
+      "title": "52F - Deng Deng (3)",
+      "volume": "3",
+      "last_updated": "1554037200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/GjQOiUP"
+      }
+    },
+    "3.005": {
+      "title": "52F - Deng Deng (4)",
+      "volume": "3",
+      "last_updated": "1554642000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/SQ5N4oI"
+      }
+    },
+    "3.006": {
+      "title": "52F - Deng Deng (5)",
+      "volume": "3",
+      "last_updated": "1555246800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Xsj6iMn"
+      }
+    },
+    "3.007": {
+      "title": "52F - Deng Deng (6)",
+      "volume": "3",
+      "last_updated": "1555851600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Y9Ul8fy"
+      }
+    },
+    "3.008": {
+      "title": "52F - Baylord Yama (1)",
+      "volume": "3",
+      "last_updated": "1556456400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/uPye6Om"
+      }
+    },
+    "3.009": {
+      "title": "52F - Baylord Yama (2)",
+      "volume": "3",
+      "last_updated": "1557061200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4iS5dfN"
+      }
+    },
+    "3.010": {
+      "title": "52F - Il Furto della Zanna (1)",
+      "volume": "3",
+      "last_updated": "1557666000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4UJkrOV"
+      }
+    },
+    "3.011": {
+      "title": "52F - Il Furto della Zanna (2)",
+      "volume": "3",
+      "last_updated": "1558270800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/288c6R6"
+      }
+    },
+    "3.012": {
+      "title": "52F - Il Furto della Zanna (3)",
+      "volume": "3",
+      "last_updated": "1558875600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/vOK6nDO"
+      }
+    },
+    "3.013": {
+      "title": "52F - Il Furto della Zanna (4)",
+      "volume": "3",
+      "last_updated": "1559480400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/BuC7bn6"
+      }
+    },
+    "3.014": {
+      "title": "52F - Il Furto della Zanna (5)",
+      "volume": "3",
+      "last_updated": "1560085200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/rxJXvwn"
+      }
+    },
+    "3.015": {
+      "title": "52F - Il Furto della Zanna (6)",
+      "volume": "3",
+      "last_updated": "1560690000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/iEzbb6J"
+      }
+    },
+    "3.016": {
+      "title": "52F - Il Furto della Zanna (7)",
+      "volume": "3",
+      "last_updated": "1561294800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/wKpkaiF"
+      }
+    },
+    "3.017": {
+      "title": "52F - Cuore (1)",
+      "volume": "3",
+      "last_updated": "1561899600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Cw3NsU5"
+      }
+    },
+    "3.018": {
+      "title": "52F - Cuore (2)",
+      "volume": "3",
+      "last_updated": "1562504400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/EzV4nys"
+      }
+    },
+    "3.019": {
+      "title": "52F - Cuore (3)",
+      "volume": "3",
+      "last_updated": "1563109200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/l5GOqSE"
+      }
+    },
+    "3.020": {
+      "title": "52F - Doom (1)",
+      "volume": "3",
+      "last_updated": "1563714000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Bu6ogbo"
+      }
+    },
+    "3.021": {
+      "title": "52F - Doom (2)",
+      "volume": "3",
+      "last_updated": "1564318800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/YS0iGoK"
+      }
+    },
+    "3.022": {
+      "title": "52F - Il Furto della Zanna 2 (1)",
+      "volume": "3",
+      "last_updated": "1564923600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/C6bbkPt"
+      }
+    },
+    "3.023": {
+      "title": "52F - Il Furto della Zanna 2 (2)",
+      "volume": "3",
+      "last_updated": "1565528400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Uoa9rrN"
+      }
+    },
+    "3.024": {
+      "title": "52F - Il Re dei Cani (1)",
+      "volume": "3",
+      "last_updated": "1566133200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/nrWwfgF"
+      }
+    },
+    "3.025": {
+      "title": "52F - Il Re dei Cani (2)",
+      "volume": "3",
+      "last_updated": "1566738000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/oYDhmHD"
+      }
+    },
+    "3.026": {
+      "title": "52F - Il Re dei Cani (3)",
+      "volume": "3",
+      "last_updated": "1567342800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/vpFiOHG"
+      }
+    },
+    "3.027": {
+      "title": "52F - Khel Hellam (1)",
+      "volume": "3",
+      "last_updated": "1567947600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ktIqPE6"
+      }
+    },
+    "3.028": {
+      "title": "52F - Khel Hellam (2)",
+      "volume": "3",
+      "last_updated": "1568552400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/1jmFKVt"
+      }
+    },
+    "3.029": {
+      "title": "52F - Khel Hellam (3)",
+      "volume": "3",
+      "last_updated": "1569157200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ssc46dR"
+      }
+    },
+    "3.030": {
+      "title": "52F - Trasformazione (1)",
+      "volume": "3",
+      "last_updated": "1569762000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/tM4HgpU"
+      }
+    },
+    "3.031": {
+      "title": "52F - Trasformazione (2)",
+      "volume": "3",
+      "last_updated": "1570366800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/fdzCJS5"
+      }
+    },
+    "3.032": {
+      "title": "52F - Trasformazione (3)",
+      "volume": "3",
+      "last_updated": "1570971600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/GhC9B49"
+      }
+    },
+    "3.033": {
+      "title": "52F - I Muri di Pace e Coesistenza (1)",
+      "volume": "3",
+      "last_updated": "1571576400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/L4t3ku3"
+      }
+    },
+    "3.034": {
+      "title": "52F - I Muri di Pace e Coesistenza (2)",
+      "volume": "3",
+      "last_updated": "1572184800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/8kfpdOs"
+      }
+    },
+    "3.035": {
+      "title": "52F - I Muri di Pace e Coesistenza (3)",
+      "volume": "3",
+      "last_updated": "1572789600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/iDPBwBY"
+      }
+    },
+    "3.036": {
+      "title": "52F - I Muri di Pace e Coesistenza (4)",
+      "volume": "3",
+      "last_updated": "1573394400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/1RxnVgU"
+      }
+    },
+    "3.037": {
+      "title": "52F - I Muri di Pace e Coesistenza (5)",
+      "volume": "3",
+      "last_updated": "1573999200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/LtKF7P5"
+      }
+    },
+    "3.038": {
+      "title": "52F - Il Muro del Nontiscordardimé (1)",
+      "volume": "3",
+      "last_updated": "1574604000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/kS5NVjd"
+      }
+    },
+    "3.039": {
+      "title": "52F - Il Muro del Nontiscordardimé (2)",
+      "volume": "3",
+      "last_updated": "1575208800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/YK04np0"
+      }
+    },
+    "3.040": {
+      "title": "52F - Il Muro del Nontiscordardimé (3)",
+      "volume": "3",
+      "last_updated": "1575813600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/CR8pAgD"
+      }
+    },
+    "3.041": {
+      "title": "52F - Il Muro del Nontiscordardimé (4)",
+      "volume": "3",
+      "last_updated": "1576418400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/5aVAA5v"
+      }
+    },
+    "3.042": {
+      "title": "52F - Il Muro del Nontiscordardimé (5)",
+      "volume": "3",
+      "last_updated": "1577023200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/El8qxWJ"
+      }
+    },
+    "3.043": {
+      "title": "52F - Kallavan vs White (1)",
+      "volume": "3",
+      "last_updated": "1577628000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/uh69vrS"
+      }
+    },
+    "3.044": {
+      "title": "52F - Kallavan vs White (2)",
+      "volume": "3",
+      "last_updated": "1578232800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/fbsgQhb"
+      }
+    },
+    "3.045": {
+      "title": "52F - Dowon (1)",
+      "volume": "3",
+      "last_updated": "1578837600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/y7dZSot"
+      }
+    },
+    "3.046": {
+      "title": "52F - Dowon (2)",
+      "volume": "3",
+      "last_updated": "1579442400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/um0cp7v"
+      }
+    },
+    "3.047": {
+      "title": "52F - Dowon (3)",
+      "volume": "3",
+      "last_updated": "1580047200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/AziXuU0"
+      }
+    },
+    "3.048": {
+      "title": "52F - Dowon (4)",
+      "volume": "3",
+      "last_updated": "1580652000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/WoJy5Mf"
+      }
+    },
+    "3.049": {
+      "title": "52F - Il Nido (1)",
+      "volume": "3",
+      "last_updated": "1581256800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/bHfBQLa"
+      }
+    },
+    "3.050": {
+      "title": "52F - Il Nido (2)",
+      "volume": "3",
+      "last_updated": "1581861600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/aqmLLqZ"
+      }
+    },
+    "3.051": {
+      "title": "52F - Il Nido (3)",
+      "volume": "3",
+      "last_updated": "1582466400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/EkZlmWw"
+      }
+    },
+    "3.052": {
+      "title": "52F - Il Nido (4)",
+      "volume": "3",
+      "last_updated": "1583071200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/3ULfW5l"
+      }
+    },
+    "3.053": {
+      "title": "52F - Irruzione (1)",
+      "volume": "3",
+      "last_updated": "1583676000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/TPhHB7V"
+      }
+    },
+    "3.054": {
+      "title": "52F - Irruzione (2)",
+      "volume": "3",
+      "last_updated": "1584280800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/n8gKqqb"
+      }
+    },
+    "3.055": {
+      "title": "52F - Irruzione (3)",
+      "volume": "3",
+      "last_updated": "1584885600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/RyxAQMI"
+      }
+    },
+    "3.056": {
+      "title": "52F - Battaglia Caotica (1)",
+      "volume": "3",
+      "last_updated": "1585486800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/x4FJ7E4"
+      }
+    },
+    "3.057": {
+      "title": "52F - Battaglia Caotica (2)",
+      "volume": "3",
+      "last_updated": "1586091600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/x146KJ7"
+      }
+    },
+    "3.058": {
+      "title": "52F - Battaglia Caotica (3)",
+      "volume": "3",
+      "last_updated": "1586696400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/8i9PJUu"
+      }
+    },
+    "3.059": {
+      "title": "52F - Battaglia Caotica (4)",
+      "volume": "3",
+      "last_updated": "1587301200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/DZTgUtf"
+      }
+    },
+    "3.060": {
+      "title": "52F - VS Kallavan (1)",
+      "volume": "3",
+      "last_updated": "1587906000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/uZpSH32"
+      }
+    },
+    "3.061": {
+      "title": "52F - VS Kallavan (2)",
+      "volume": "3",
+      "last_updated": "1588510800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ywew6We"
+      }
+    },
+    "3.062": {
+      "title": "52F - VS Kallavan (3)",
+      "volume": "3",
+      "last_updated": "1589115600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/nhsB3j4"
+      }
+    },
+    "3.063": {
+      "title": "52F - VS Kallavan (4)",
+      "volume": "3",
+      "last_updated": "1589720400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/chfSRJH"
+      }
+    },
+    "3.064": {
+      "title": "52F - VS Kallavan (5)",
+      "volume": "3",
+      "last_updated": "1590325200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/cMJ0u8w"
+      }
+    },
+    "3.065": {
+      "title": "52F - VS Kallavan (6)",
+      "volume": "3",
+      "last_updated": "1590930000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7Yt1fNH"
+      }
+    },
+    "3.066": {
+      "title": "52F - VS Kallavan (7)",
+      "volume": "3",
+      "last_updated": "1591534800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/1aKJbXf"
+      }
+    },
+    "3.067": {
+      "title": "52F - Il Secondo Muro Difensivo (1)",
+      "volume": "3",
+      "last_updated": "1592139600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/QeVzVHy"
+      }
+    },
+    "3.068": {
+      "title": "52F - Il Secondo Muro Difensivo (2)",
+      "volume": "3",
+      "last_updated": "1592744400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/lT8rXG2"
+      }
+    },
+    "3.069": {
+      "title": "52F - Il Secondo Muro Difensivo (3)",
+      "volume": "3",
+      "last_updated": "1621170000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/L8lDrXp"
+      }
+    },
+    "3.070": {
+      "title": "52F - Ognuno per la sua strada, da soli verso la meta (1)",
+      "volume": "3",
+      "last_updated": "1621774800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/DkpWk8T"
+      }
+    },
+    "3.071": {
+      "title": "52F - Ognuno per la sua strada, da soli verso la meta (2)",
+      "volume": "3",
+      "last_updated": "1622379600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/CLAUtdu"
+      }
+    },
+    "3.072": {
+      "title": "52F - Ognuno per la sua strada, da soli verso la meta (3)",
+      "volume": "3",
+      "last_updated": "1622984400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/iLHAwSq"
+      }
+    },
+    "3.073": {
+      "title": "52F - Ognuno per la sua strada, da soli verso la meta (4)",
+      "volume": "3",
+      "last_updated": "1623589200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/trtxXL3"
+      }
+    },
+    "3.074": {
+      "title": "52F - Ognuno per la sua strada, da soli verso la meta (5)",
+      "volume": "3",
+      "last_updated": "1624194000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/xOImeFR"
+      }
+    },
+    "3.075": {
+      "title": "52F - Battaglia feroce (1)",
+      "volume": "3",
+      "last_updated": "1624798800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Gz1ShFo"
+      }
+    },
+    "3.076": {
+      "title": "52F - Battaglia feroce (2)",
+      "volume": "3",
+      "last_updated": "1625403600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/TjRVNra"
+      }
+    },
+    "3.077": {
+      "title": "52F - Battaglia feroce (3)",
+      "volume": "3",
+      "last_updated": "1626008400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/K9yA1oJ"
+      }
+    },
+    "3.078": {
+      "title": "52F - Battaglia feroce (4)",
+      "volume": "3",
+      "last_updated": "1626613200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/qXGBu41"
+      }
+    },
+    "3.079": {
+      "title": "52F - Battaglia feroce (5)",
+      "volume": "3",
+      "last_updated": "1627218000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/KXazgp3"
+      }
+    },
+    "3.080": {
+      "title": "52F - Battaglia feroce (6)",
+      "volume": "3",
+      "last_updated": "1627822800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/kdSYQtT"
+      }
+    },
+    "3.081": {
+      "title": "52F - Battaglia feroce (7)",
+      "volume": "3",
+      "last_updated": "1628427600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/zSUNR33"
+      }
+    },
+    "3.082": {
+      "title": "52F - Un Cambiamento Oscuro (1)",
+      "volume": "3",
+      "last_updated": "1629032400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/VbJdPeA"
+      }
+    },
+    "3.083": {
+      "title": "52F - Un Cambiamento Oscuro (2)",
+      "volume": "3",
+      "last_updated": "1629637200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/uZpFHhT"
+      }
+    },
+    "3.084": {
+      "title": "52F - Un Cambiamento Oscuro (3)",
+      "volume": "3",
+      "last_updated": "1630242000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/mh6x4yZ"
+      }
+    },
+    "3.085": {
+      "title": "52F - Un Cambiamento Oscuro (4)",
+      "volume": "3",
+      "last_updated": "1630846800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/IDDN960"
+      }
+    },
+    "3.086": {
+      "title": "52F - Un Cambiamento Oscuro (5)",
+      "volume": "3",
+      "last_updated": "1631451600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/swjEd8w"
+      }
+    },
+    "3.087": {
+      "title": "52F - Un Cambiamento Oscuro (6)",
+      "volume": "3",
+      "last_updated": "1632056400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ycnM4ur"
+      }
+    },
+    "3.088": {
+      "title": "52F - Un Cambiamento Oscuro (7)",
+      "volume": "3",
+      "last_updated": "1632661200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/o8pYz5m"
+      }
+    },
+    "3.089": {
+      "title": "52F - Un Cambiamento Oscuro (8)",
+      "volume": "3",
+      "last_updated": "1633266000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/AtXEtB3"
+      }
+    },
+    "3.090": {
+      "title": "52F - Un Cambiamento Oscuro (9)",
+      "volume": "3",
+      "last_updated": "1633870800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ydaBYoy"
+      }
+    },
+    "3.091": {
+      "title": "52F - Un Cambiamento Oscuro (10)",
+      "volume": "3",
+      "last_updated": "1634475600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/y6QCNYl"
+      }
+    },
+    "3.092": {
+      "title": "52F - Un Cambiamento Oscuro (11)",
+      "volume": "3",
+      "last_updated": "1635080400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/XjKA24r"
+      }
+    },
+    "3.093": {
+      "title": "52F - Un Cambiamento Oscuro (12)",
+      "volume": "3",
+      "last_updated": "1635688800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/6j0cG8d"
+      }
+    },
+    "3.094": {
+      "title": "52F - Un Cambiamento Oscuro (13)",
+      "volume": "3",
+      "last_updated": "1636293600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/3NmLZcE"
+      }
+    },
+    "3.095": {
+      "title": "52F - Un Cambiamento Oscuro (14)",
+      "volume": "3",
+      "last_updated": "1636898400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/GCHc3dX"
+      }
+    },
+    "3.096": {
+      "title": "52F - Un Cambiamento Oscuro (15)",
+      "volume": "3",
+      "last_updated": "1637503200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/yO4RmWJ"
+      }
+    },
+    "3.097": {
+      "title": "52F - Colui che è al di sopra (1)",
+      "volume": "3",
+      "last_updated": "1638108000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/mBbf7Yl"
+      }
+    },
+    "3.098": {
+      "title": "52F - Colui che è al di sopra (2)",
+      "volume": "3",
+      "last_updated": "1638712800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/s6jrljf"
+      }
+    },
+    "3.099": {
+      "title": "52F - Colui che è al di sopra (3)",
+      "volume": "3",
+      "last_updated": "1639317600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Oqc3bHH"
+      }
+    },
+    "3.100": {
+      "title": "52F - Colui che è al di sopra (4)",
+      "volume": "3",
+      "last_updated": "1639922400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/3HQynhw"
+      }
+    },
+    "3.101": {
+      "title": "52F - Colui che è al di sopra (5)",
+      "volume": "3",
+      "last_updated": "1640527200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/0PyDcbE"
+      }
+    },
+    "3.102": {
+      "title": "52F - Portale (1)",
+      "volume": "3",
+      "last_updated": "1641132000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/xgWGtxi"
+      }
+    },
+    "3.103": {
+      "title": "52F - Portale (2)",
+      "volume": "3",
+      "last_updated": "1641736800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/pJk6Wuc"
+      }
+    },
+    "3.104": {
+      "title": "52F - Portale (3)",
+      "volume": "3",
+      "last_updated": "1642341600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/l0dfmhE"
+      }
+    },
+    "3.105": {
+      "title": "52F - Portale (4)",
+      "volume": "3",
+      "last_updated": "1642946400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/jGV4yiI"
+      }
+    },
+    "3.106": {
+      "title": "52F - Portale (5)",
+      "volume": "3",
+      "last_updated": "1643551200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/v1SPNnK"
+      }
+    },
+    "3.107": {
+      "title": "52F - La venuta (1)",
+      "volume": "3",
+      "last_updated": "1644156000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/VldsBln"
+      }
+    },
+    "3.108": {
+      "title": "52F - La venuta (2)",
+      "volume": "3",
+      "last_updated": "1644760800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/gp4U9Qc"
+      }
+    },
+    "3.109": {
+      "title": "52F - Cane e gatto (1)",
+      "volume": "3",
+      "last_updated": "1645365600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/bmb2GZU"
+      }
+    },
+    "3.110": {
+      "title": "52F - Cane e gatto (2)",
+      "volume": "3",
+      "last_updated": "1645970400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/YIcTT6v"
+      }
+    },
+    "3.111": {
+      "title": "52F - Cane e gatto (3)",
+      "volume": "3",
+      "last_updated": "1646575200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Nk1as4h"
+      }
+    },
+    "3.112": {
+      "title": "52F - Cane e gatto (4)",
+      "volume": "3",
+      "last_updated": "1647180000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7Kz0qB9"
+      }
+    },
+    "3.113": {
+      "title": "52F - Battaglia di posizione (1)",
+      "volume": "3",
+      "last_updated": "1647784800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/BtPbNKH"
+      }
+    },
+    "3.114": {
+      "title": "52F - Battaglia di posizione (2)",
+      "volume": "3",
+      "last_updated": "1648386000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/TSgSVrS"
+      }
+    },
+    "3.115": {
+      "title": "52F - Battaglia di posizione (3)",
+      "volume": "3",
+      "last_updated": "1648990800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/lgBP6WO"
+      }
+    },
+    "3.116": {
+      "title": "52F - Battaglia di posizione (4)",
+      "volume": "3",
+      "last_updated": "1649595600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/KuaxRsR"
+      }
+    },
+    "3.117": {
+      "title": "52F - Battaglia di posizione (5)",
+      "volume": "3",
+      "last_updated": "1650200400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/FGUpVyK"
+      }
+    },
+    "3.118": {
+      "title": "52F - Battaglia di posizione (6)",
+      "volume": "3",
+      "last_updated": "1650805200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Wl3gdxW"
+      }
+    },
+    "3.119": {
+      "title": "52F - Controffensiva (1)",
+      "volume": "3",
+      "last_updated": "1651410000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/rTklgkR"
+      }
+    },
+    "3.120": {
+      "title": "52F - Controffensiva (2)",
+      "volume": "3",
+      "last_updated": "1652014800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7zNtfns"
+      }
+    },
+    "3.121": {
+      "title": "52F - Controffensiva (3)",
+      "volume": "3",
+      "last_updated": "1653224400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/My4ZfLj"
+      }
+    },
+    "3.122": {
+      "title": "52F - Proposta (1)",
+      "volume": "3",
+      "last_updated": "1653829200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/tDHPw81"
+      }
+    },
+    "3.123": {
+      "title": "52F - Proposta (2)",
+      "volume": "3",
+      "last_updated": "1654434000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/LhZlB25"
+      }
+    },
+    "3.124": {
+      "title": "52F - I 10 Capifamiglia (Calamità) (1)",
+      "volume": "3",
+      "last_updated": "1655038800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/vGK1i8f"
+      }
+    },
+    "3.125": {
+      "title": "52F - I 10 Capifamiglia (Calamità) (2)",
+      "volume": "3",
+      "last_updated": "1655643600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/jZbsyME"
+      }
+    },
+    "3.126": {
+      "title": "52F - I 10 Capifamiglia (Calamità) (3)",
+      "volume": "3",
+      "last_updated": "1656248400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/AV227KA"
+      }
+    },
+    "3.127": {
+      "title": "52F - I 10 Capifamiglia (Calamità) (4)",
+      "volume": "3",
+      "last_updated": "1656853200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/4cZGoTe"
+      }
+    },
+    "3.128": {
+      "title": "??F - Teletrasporto (1)",
+      "volume": "3",
+      "last_updated": "1657458000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/uNvBzeQ"
+      }
+    },
+    "3.129": {
+      "title": "??F - Teletrasporto (2)",
+      "volume": "3",
+      "last_updated": "1658062800",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/SBtDYbc"
+      }
+    },
+    "3.130": {
+      "title": "??F - Lilial Zahard (1)",
+      "volume": "3",
+      "last_updated": "1658667600",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/ii2YMtR"
+      }
+    },
+    "3.131": {
+      "title": "??F - Lilial Zahard (2)",
+      "volume": "3",
+      "last_updated": "1659272400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/7dD0wYY"
+      }
+    },
+    "3.132": {
+      "title": "??F - Lilial Zahard (3)",
+      "volume": "3",
+      "last_updated": "1659877200",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/klo9vXS"
+      }
+    },
+    "3.133": {
+      "title": "??F - Lilial Zahard (4)",
+      "volume": "3",
+      "last_updated": "1660482000",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/j9Ua52x"
+      }
+    },
+    "3.134": {
+      "title": "Dichiarazione di guerra (1)",
+      "volume": "3",
+      "last_updated": "1680776400",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/Q3H0N0j"
+      }
+    },
+    "3.135": {
+      "title": "Dichiarazione di guerra (2)",
+      "volume": "3",
+      "last_updated": "1681831435",
+      "groups": {
+        "Quegna Traduction Team": "/proxy/api/imgur/chapter/EitWLX6"
+      }
+    }
+  }
 }
